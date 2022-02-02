@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   MongoDB, PostgreSQL, Storybook, Mocha, Chai, Jest, Cypress, GitHub, Git
 </p>
 
-## 🔭 I’m currently working on.. 
+## 🛠 I’m currently working on.. 
 <p>building a portfolio website to showcase who I am!</p>  
 
 

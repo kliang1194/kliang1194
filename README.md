@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Kyle Liang. Thanks for visiting my GitHub!
 
 <!--
 **kliang1194/kliang1194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kliang1194.kliang1194&color=blue&style=for-the-badge&logo=Github)

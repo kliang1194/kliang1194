@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 ## 📚 My Tech Stack
 ### Languages
 <p>
-  JavaScript, Ruby, CSS, HTML
+  Typescript, Javascript, Ruby, CSS, HTML
 </p>
 
 ### Frameworks, Libraries, and Environments
 <p>
-  ReactJS, NodeJS, Express, Rails, Bootstrap, SASS, Material UI
+  React Native, React, Rails, NodeJS, Express,jQuery, Material UI
 </p>
 
 ### Systems, CMS, and Databases
 <p>
-  MongoDB, PostgreSQL, Storybook, Mocha, Chai, Jest, Cypress, GitHub, Git
+  GraphQL, MongoDB, PostgreSQL, Storybook,Cypress, Mocha, Chai, Jest
 </p>
 
 ## 🛠 I’m currently working on.. 

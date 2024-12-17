@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kliang1194.kliang1194&color=yellow&style=for-the-badge&logo=Github)
-
 ## 👤 Quick Facts About Me
 - 💻 Diploma in Web Development, Lighthouse Labs Inc.
 - 🎓 Master of Science in Applied Clinical Pharmacology, University of Toronto
